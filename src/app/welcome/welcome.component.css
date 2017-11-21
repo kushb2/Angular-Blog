@@ -1,0 +1,12 @@
+.welcome{
+  background: url("../../assets/images/welcome.jpg") no-repeat;
+  color: white;
+  height: 90vh;
+  background-size: cover;
+  position: relative;
+}
+
+.auto{
+  vertical-align: middle;
+  text-align: center;
+}

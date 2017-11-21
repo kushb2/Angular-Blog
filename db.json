@@ -1,0 +1,37 @@
+{
+  "blog": [
+    {
+      "title": "A Quantum Achievement: But it’s Just the Beginning",
+      "author": "ram",
+      "logo": "https://cdn-images-1.medium.com/max/1200/1*mw6Md1N8jN24QXBWCZx8zw.png",
+      "category": "Technology",
+      "content": "We wanted Firefox to be faster. Much faster. But it’s not enough to just be fast — our goal was to make an overall better browser for the user. Why have all that speed if you’re not going to put it where the user wants it most?\nI first shared our vision for “Project Quantum” last year. That’s the code name we used for our work to embrace a truly next generation architecture for Firefox, and for the web. Here we are one year later and today we celebrate the release of a new Firefox, the most powerful version of Firefox yet. Anyone who downloads this version, which is so advanced we call it “Firefox Quantum,” simply can’t help but notice the speed, performance improvements and the responsively slick new UI.\nFirefox Quantum is the best browser for today’s modern consumers because we used only the best of the latest technology to build it. It’s fast because if you look under the hood, you’ll see each layer was crafted from the bottom up with performance goals at the center.\nAs Mark Mayo explained, Firefox Quantum is not only the fastest yet, it keeps you safe from unwanted targeting with the Private Browsing mode. This is quite the achievement from the only major browser on the market backed by a not-for-profit company. We’ve revitalized Firefox to be the perfect browser for the casual user or the developer who needs modern tools and maximum performance for their work.\nAnd though today’s new Firefox represents an extraordinary advance in responsiveness, Firefox Quantum isn’t the end of our efforts. Rather, it’s just the start of a new era of Firefox.\nWe Called it Quantum\nThe central advancement for Project Quantum was parallelism, the benefits of which we’d seen with Servo, our high-performance browser engine project. The clear throughput and performance advantages of Servo convinced us we could create a new web rendering engine for Firefox with unprecedented security and responsiveness.\nServo unlocks your machine to give you the best web experience using modern techniques to take full advantage of today’s hardware. A large part of that is because we built it leveraging Rust, a safe and fast programming language pioneered at Mozilla to do a better job utilizing today’s multi-core processors. With Rust you get speed, memory safety and parallelism under its aptly true tagline of “Fearless Concurrency.”\nA global team of engineers came together with one goal in mind — handcraft a rendering engine that can deliver all components of a web page in parallel on multiple CPU threads. As part of that we’ve had the added benefit of thousands of community members contributing to both Rust and Servo.\nProjects like Servo and Rust are just some of the innovations we are working on inside Mozilla’s Emerging Technology group. As you may recall from our Project Quantum posts last year, we not only talked about building a transformatively better engine for Firefox but also our commitment to make those core technologies reusable inside other projects and applications, enabling an extraordinary range of user experiences and platforms well beyond today’s web.\nWe’re Not Done Yet\nFirefox Quantum is an amazing step forward in part due to incorporation of breakthrough technologies from Servo, but it is only the beginning of the Project Quantum journey. Already you can find additional new components from Servo in Firefox Nightly such as WebRender — a recasting of the browser graphics rendering pipeline designed to take advantage of high-performance techniques perfected in state-of-the-art video games. Developers might be happy to know you can also see these latest updates to Quantum in Developer Edition.\nWe have our eye on other work in Servo and in Mozilla’s Emerging Technologies group as part of that future too. Ideas currently being explored further along the Project Quantum path include ways to apply insights on parallelization to other areas that will give users a delightful increase in responsiveness, such as prioritizing just those pages they’re interacting with, or the way the browser lays out a page.\nWe’re also coming back to embedding, a topic we highlighted last year, as we see opportunities to craft a diverse set of application experiences around our next-generation components. Those aren’t confined to rendering traditional 2D web content either, as we have for example demonstrated how Servo can enable a new class of 3D environments and power “mixed reality” head-mounted displays. And we’re curious how far we can extend the benefits of WebAssembly to bring both more developers and more assets to the web, leveraging a powerful new virtual machine at the heart of every browser.\nAt Mozilla we’re delighted at the progress we’ve made over the past year in bringing Firefox Quantum to fruition and we’re sure you’ll enjoy it too. We have much more magic up our sleeve, and hope you’ll continue to follow along with us as we strive to make the web work for good.",
+      "date": "Fri Nov 17 2017",
+      "id": "KmuupPx"
+    }
+
+  ],
+  "users": [
+    {
+      "id": "kush",
+      "password": "kush",
+      "favourite": [
+        "KmuupPx"
+      ],
+      "my_blog": [
+        "KmuupPx"
+      ]
+    },
+    {
+      "id": "kush1",
+      "password": "kush1",
+      "favourite": [
+        "KnizxN8"
+      ],
+      "my_blog": [
+        "NnIZIdW",
+        "sYajBb9"
+      ]
+    }
+  ]
+}
